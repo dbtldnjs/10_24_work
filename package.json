@@ -14,6 +14,6 @@
     "parcel-bundler": "^1.12.5"
   },
   "dependencies": {
-    "parcel-plugin-static-files": "^2.0.5"
+
   }
 }
