@@ -138,11 +138,11 @@ Modal.prototype.action = function(){
 }
 // 3. 인스턴스
 let modal = [
-    new Modal('title01','./imges/pic01.png','2001','프로그램1','http://aaa1.com','text01')
-    new Modal('title02','./imges/pic01.png','2001','프로그램1','http://aaa2.com','text02')
-    new Modal('title03','./imges/pic01.png','2001','프로그램1','http://aaa3.com','text03')
-    new Modal('title04','./imges/pic01.png','2001','프로그램1','http://aaa4.com','text04')
-    new Modal('title05','./imges/pic01.png','2001','프로그램1','http://aaa5.com','text05')
+    new Modal('title01','./imges/pic01.png','2001','프로그램1','http://aaa1.com','text01'),
+    new Modal('title02','./imges/pic01.png','2001','프로그램1','http://aaa2.com','text02'),
+    new Modal('title03','./imges/pic01.png','2001','프로그램1','http://aaa3.com','text03'),
+    new Modal('title04','./imges/pic01.png','2001','프로그램1','http://aaa4.com','text04'),
+    new Modal('title05','./imges/pic01.png','2001','프로그램1','http://aaa5.com','text05'),
     new Modal('title06','./imges/pic01.png','2001','프로그램1','http://aaa6.com','text06')
 ]
 // 4. 이벤트
